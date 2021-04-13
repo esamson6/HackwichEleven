@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D325F53262635640029B033 /* RestaurantAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D325F52262635640029B033 /* RestaurantAnnotation.swift */; };
 		9D8B7DAB262624B70057627E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8B7DAA262624B70057627E /* AppDelegate.swift */; };
 		9D8B7DAD262624B70057627E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8B7DAC262624B70057627E /* SceneDelegate.swift */; };
 		9D8B7DAF262624B70057627E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8B7DAE262624B70057627E /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9D325F52262635640029B033 /* RestaurantAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantAnnotation.swift; sourceTree = "<group>"; };
 		9D8B7DA7262624B70057627E /* HackwichEleven.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichEleven.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D8B7DAA262624B70057627E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D8B7DAC262624B70057627E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				9D8B7DAC262624B70057627E /* SceneDelegate.swift */,
 				9D8B7DAE262624B70057627E /* ViewController.swift */,
 				9D8B7DB0262624B70057627E /* Main.storyboard */,
+				9D325F52262635640029B033 /* RestaurantAnnotation.swift */,
 				9D8B7DB6262624B80057627E /* Assets.xcassets */,
 				9D8B7DB8262624B80057627E /* LaunchScreen.storyboard */,
 				9D8B7DBB262624B80057627E /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D325F53262635640029B033 /* RestaurantAnnotation.swift in Sources */,
 				9D8B7DB5262624B80057627E /* HackwichEleven.xcdatamodeld in Sources */,
 				9D8B7DAF262624B70057627E /* ViewController.swift in Sources */,
 				9D8B7DAB262624B70057627E /* AppDelegate.swift in Sources */,
